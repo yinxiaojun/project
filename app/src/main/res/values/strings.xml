@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DJMediaPlayer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="movieList">影片列表</string>
+    <string name="alertdialog_title">提示</string>
+    <string name="alertdialog_message">确定退出?</string>
+    <string name="alertdialog_yes">确定</string>
+    <string name="alertdialog_no">取消</string>
+
+    <string name="video_finish">影片播放完毕，谢谢欣赏!</string>
+    <string name="video_error">影片播放出错</string>
+    <string name="video_error_yes">确定</string>
+    <string name="no_such_movie">影片不存在</string>
+</resources>
